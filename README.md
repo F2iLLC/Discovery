@@ -62,7 +62,7 @@ Open `http://localhost:3000` in your browser. That's it.
 - **Anyone** who's tired of tracking quality in spreadsheets
 
 Discovery is **not** compliance software. It doesn't have audit trails, electronic signatures, or validated workflows. If you need those things, check out [BioQMS](https://bioqms.io).
-
+Discovery is designed to be easily portable to the BioQMS standard so you don't lose any data.
 ---
 
 ## Growing out of Discovery?
